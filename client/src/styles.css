@@ -1,9 +1,9 @@
 /* Global Styles */
 :root {
   /* Primary color palette - refined blue tones */
-  --primary-color: #4f46e5;
-  --primary-dark: #3730a3;
-  --primary-light: #818cf8;
+  --primary-color: #4D007D;
+  --primary-dark: #4D007D;
+  --primary-light: #4D007D;
   --primary-lighter: #e0e7ff;
   
   /* Secondary color palette - slate tones */
